@@ -2,7 +2,10 @@
 main:
   - title: "About"
     url: /about/
+    description: "More information on me"
   - title: "Resources"
     url: /resources/
+    description: "A collection of valuable material"
   - title: "Posts"
     url: /posts/
+    description: "My deranged ramblings"
