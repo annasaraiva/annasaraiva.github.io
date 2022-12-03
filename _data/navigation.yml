@@ -9,3 +9,20 @@ main:
   - title: "Posts"
     url: /posts/
     description: "My deranged ramblings"
+
+docs:
+  - title: Courses
+    children:
+      - title: "Programming"
+        url: /docs/programming/
+      - title: "Economics"
+        url: /docs/economics/
+      - title: "Others"
+        url: /docs/others/
+        
+  - title: Advice
+    children:
+      - title: "On life"
+        url: /docs/life/
+      - title: "On studying"
+        url: /docs/studying/
