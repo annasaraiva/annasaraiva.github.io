@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Anna Carolina Dutra Saraiva"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/IMG_3567_2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Brazilian student of (mostly) economics"
   location         : "Milano, Italia"
   email            :
